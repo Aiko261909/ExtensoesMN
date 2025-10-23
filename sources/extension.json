@@ -1,0 +1,11 @@
+{
+  "name": "ExtensionsMNM",
+  "version": "1.0.0", 
+  "versionCode": 1,
+  "author": "AIKO",
+  "description": "Extensão para [Nome do Site]",
+  "contentProvider": {
+    "website": "https://centralnovel.com",
+    "version": "1.0.0"
+  }
+}
