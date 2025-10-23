@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Central Novel",
+    "lang": "pt", 
+    "baseUrl": "https://centralnovel.com",
+    "version": 1,
+    "versionCode": 1,
+    "sourceType": "WP_MANGASTREAM",
+    "iconUrl": "https://centralnovel.com/wp-content/uploads/2023/05/cropped-Logo-32x32.png"
+  }
+]
